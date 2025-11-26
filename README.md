@@ -5,3 +5,6 @@ Smart career app figma Prototype link: https://www.figma.com/proto/xFx6nvM4kS32A
 
 
 Smart career app Figma file link: https://www.figma.com/design/xFx6nvM4kS32Al2PyWB3v7/Smart-career-Guidance-App?node-id=58-62&t=Ii4GoQUYvJsqkc6l-1
+
+
+Smart career app Figma wireframe link: https://www.figma.com/board/3FnYwU4TlQcguPtBg7X4Tg/Career-Guidance-Platform-wireframe?node-id=0-1&t=mFtgBnEkaPiTpafw-1
